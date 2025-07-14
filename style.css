@@ -18,7 +18,12 @@ body {
   font-size: 12px;
 }
 
+.bi-bell{  margin-right: 6px;}
 
+.bi-question-circle{
+
+   margin-right: 6px;
+}
 
 .top-bar a {
   margin-right: 15px;
